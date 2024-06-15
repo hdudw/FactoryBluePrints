@@ -2,9 +2,15 @@ MinGit/
 7-zip/
 
 *.log
-
+.idea/
 *.sha256
 
 *.zip
 *.7z
 *.rar
+
+*.exe
+
+*.dsv
+*.moddsv
+*.mecha
